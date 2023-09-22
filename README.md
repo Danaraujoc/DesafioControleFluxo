@@ -1,4 +1,6 @@
 # DIO - Trilha Java Básico
+Desafio de Projeto proposto pela DIO no curso Trilha Java Básico. Neste módulo específico de controle de fluxo trabalhamos com estruturas de condicionais, repetição e excepecionais, e que foram aplicadas no desafio abaixo.
+
 www.dio.me
 
 #### Autores
